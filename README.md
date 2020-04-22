@@ -33,9 +33,9 @@
 
 Ruby Script to download all the fonts
 ============
-https://github.com/lifeparticle/Ruby-Cheatsheet/blob/master/scripts/download_files.rb
+[https://img.shields.io/badge/ruby-script-lightgrey](https://github.com/lifeparticle/Ruby-Cheatsheet/blob/master/scripts/download_files.rb)
 
 Resources
 ============
-1. https://www.omicronlab.com/bangla-fonts.html
-2. https://www.bd.undp.org/content/bangladesh/en/home/library/Sustainable_Development_Goals/download-un-bangla-font.html
+1. [omicronlab](https://www.omicronlab.com/bangla-fonts.html)
+2. [undp](https://www.bd.undp.org/content/bangladesh/en/home/library/Sustainable_Development_Goals/download-un-bangla-font.html)
