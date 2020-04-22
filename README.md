@@ -33,7 +33,7 @@
 
 Ruby Script to download all the fonts
 ============
-[https://img.shields.io/badge/ruby-script-lightgrey](https://github.com/lifeparticle/Ruby-Cheatsheet/blob/master/scripts/download_files.rb)
+<a href="https://github.com/lifeparticle/Ruby-Cheatsheet/blob/master/scripts/download_files.rb"><img alt="contributions welcome" src="https://img.shields.io/badge/ruby-script-lightgrey"/></a>
 
 Resources
 ============
