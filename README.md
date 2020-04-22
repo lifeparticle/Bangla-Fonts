@@ -5,7 +5,7 @@
 </p>
 
 
-| ^cNo | ^cFont Name     | ^cURL                                                                                                | Sample                                                                                                                                                                 |
+| No | Font Name     | URL                                                                                                | Sample                                                                                                                                                                 |
 |----|-------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Lohit             | [Lohit](https://www.omicronlab.com/download/fonts/Lohit_14-04-2007.ttf)                            |                                                                                                                                                                        |
 | 2  | Kalpurush         | [Kalpurush](https://www.omicronlab.com/download/fonts/kalpurush.ttf)                               | <img width="283" alt="Screen Shot 2020-04-22 at 8 09 09 pm" src="https://user-images.githubusercontent.com/1612112/79969810-58be7a00-84d5-11ea-9e81-a5a6a32ebaf7.png"> |
