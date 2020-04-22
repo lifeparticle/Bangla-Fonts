@@ -1,4 +1,8 @@
-# Bangla-Fonts
+<h1 align="center">Bangla Fonts</h1></br>
+
+<p align="center">
+<a href="https://github.com/lifeparticle/Bangla-Fonts/issues"><img alt="contributions welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
+</p>
 
 1. [UN Bangla Font](https://www.bd.undp.org/content/dam/bangladesh/img/News/news2018/UN%20bangla.ttf)
 2. [Kalpurush](https://www.omicronlab.com/download/fonts/kalpurush.ttf)
