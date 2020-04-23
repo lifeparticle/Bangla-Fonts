@@ -28,7 +28,7 @@
 | 19 | Sagar             | [Sagar](https://www.omicronlab.com/download/fonts/sagarnormal.ttf)                                 |                                                                                                                                                                        |
 | 20 | Mukti narrow      | [Mukti narrow](https://www.omicronlab.com/download/fonts/muktinarrow.ttf)                          |                                                                                                                                                                        |
 | 21 | Mukti             | [Mukti](https://www.omicronlab.com/download/fonts/Mukti_1.99_PR.ttf)                               |                                                                                                                                                                        |
-| 22 | UN Bangla Font    | [UN Bangla Font](https://www.bd.undp.org/content/dam/bangladesh/img/News/news2018/UN%20bangla.ttf) |                                                                                                                                                                        |
+| 22 | UN Bangla Font    | [UN Bangla Font](https://www.bd.undp.org/content/dam/bangladesh/img/News/news2018/UN%20bangla.ttf) | ![Screen Shot 2020-04-23 at 10 37 48 am](https://user-images.githubusercontent.com/1612112/80046649-8b588900-854e-11ea-800c-5335d3fd80b9.png)                          |
 
 
 Ruby Script to download all the fonts
